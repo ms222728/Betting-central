@@ -1,0 +1,2183 @@
+[
+    {
+        "id": "07f0513784e8f970040b0f6e1efcdc04",
+        "sport_key": "basketball_nba_summer_league",
+        "sport_title": "NBA Summer League",
+        "commence_time": "2026-07-18T22:33:27Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Houston Rockets",
+        "bookmakers": []
+    },
+    {
+        "id": "15c363ca10dd16f8f76794802cc5f691",
+        "sport_key": "basketball_nba_summer_league",
+        "sport_title": "NBA Summer League",
+        "commence_time": "2026-07-18T23:00:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Atlanta Hawks",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 460
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -750
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 390
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -600
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 390
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -1000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 295
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -455
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:30:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 285
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -420
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:29:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 240
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": -325
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f4a08c0894c249e567dd84fdce6c87a2",
+        "sport_key": "soccer_mexico_ligamx",
+        "sport_title": "Liga MX",
+        "commence_time": "2026-07-18T23:00:00Z",
+        "home_team": "Pumas",
+        "away_team": "Pachuca",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:29:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Pachuca",
+                                "price": -2000
+                            },
+                            {
+                                "name": "Pumas",
+                                "price": 4500
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 1000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Pachuca",
+                                "price": -2500
+                            },
+                            {
+                                "name": "Pumas",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 1100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "42d73dc3509243e46996749337b980d3",
+        "sport_key": "americanfootball_cfl",
+        "sport_title": "CFL",
+        "commence_time": "2026-07-18T23:38:00Z",
+        "home_team": "Hamilton Tiger-Cats",
+        "away_team": "Toronto Argonauts",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:56Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Hamilton Tiger-Cats",
+                                "price": 154
+                            },
+                            {
+                                "name": "Toronto Argonauts",
+                                "price": -200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Hamilton Tiger-Cats",
+                                "price": 190
+                            },
+                            {
+                                "name": "Toronto Argonauts",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:29:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Hamilton Tiger-Cats",
+                                "price": 160
+                            },
+                            {
+                                "name": "Toronto Argonauts",
+                                "price": -210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Hamilton Tiger-Cats",
+                                "price": 185
+                            },
+                            {
+                                "name": "Toronto Argonauts",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f8783a888cf81cf55788aa06d2273f16",
+        "sport_key": "basketball_wnba",
+        "sport_title": "WNBA",
+        "commence_time": "2026-07-19T00:02:00Z",
+        "home_team": "Minnesota Lynx",
+        "away_team": "Portland Fire",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -1800
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 800
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -2500
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 950
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -1150
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 650
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:28:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:28:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -1900
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 750
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -1430
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 575
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Lynx",
+                                "price": -5000
+                            },
+                            {
+                                "name": "Portland Fire",
+                                "price": 1050
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+        "sport_key": "basketball_wnba",
+        "sport_title": "WNBA",
+        "commence_time": "2026-07-19T00:07:44Z",
+        "home_team": "Indiana Fever",
+        "away_team": "New York Liberty",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 172
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 195
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 145
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -188
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:28:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:28:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 170
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 150
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -220
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Fever",
+                                "price": 165
+                            },
+                            {
+                                "name": "New York Liberty",
+                                "price": -220
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fc2051a727661b285a4718bc4738966e",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2026-07-19T00:09:00Z",
+        "home_team": "Seattle Mariners",
+        "away_team": "San Francisco Giants",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:46Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 148
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:18Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 145
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -182
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:55Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 118
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -154
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:30:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:06Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 145
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -190
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:55Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 140
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -175
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:28Z",
+                        "outcomes": [
+                            {
+                                "name": "San Francisco Giants",
+                                "price": 138
+                            },
+                            {
+                                "name": "Seattle Mariners",
+                                "price": -190
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3906c828796ffe59539a4c19696dba9a",
+        "sport_key": "boxing_boxing",
+        "sport_title": "Boxing",
+        "commence_time": "2026-07-19T00:10:00Z",
+        "home_team": "Saul Sanchez",
+        "away_team": "Bruno Rios",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Bruno Rios",
+                                "price": 245
+                            },
+                            {
+                                "name": "Saul Sanchez",
+                                "price": -340
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:18:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:18:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Bruno Rios",
+                                "price": 117
+                            },
+                            {
+                                "name": "Saul Sanchez",
+                                "price": -150
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:18:42Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:18:42Z",
+                        "outcomes": [
+                            {
+                                "name": "Bruno Rios",
+                                "price": 117
+                            },
+                            {
+                                "name": "Saul Sanchez",
+                                "price": -150
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Bruno Rios",
+                                "price": 240
+                            },
+                            {
+                                "name": "Saul Sanchez",
+                                "price": -380
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5b9a8b900335b184b55395be8d4ea08d",
+        "sport_key": "mma_mixed_martial_arts",
+        "sport_title": "MMA",
+        "commence_time": "2026-07-19T00:20:00Z",
+        "home_team": "Tommy McMillen",
+        "away_team": "Alberto Montes",
+        "bookmakers": [
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:19:00Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:19:00Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 174
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -204
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:22:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:22:01Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 172
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 500
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -810
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 575
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -1250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 400
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -650
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:28:27Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:28:27Z",
+                        "outcomes": [
+                            {
+                                "name": "Alberto Montes",
+                                "price": 350
+                            },
+                            {
+                                "name": "Tommy McMillen",
+                                "price": -550
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1b7f4086b3b3d2a039917465354f741b",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2026-07-19T00:25:17Z",
+        "home_team": "Cleveland Guardians",
+        "away_team": "Pittsburgh Pirates",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -144
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 111
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -145
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:25:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:25:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -108
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": -102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:25:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:25:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -108
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": -102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -125
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": -105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:28Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:28Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -148
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -148
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 116
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:30:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -150
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": 115
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2026-07-19T00:27:48Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:27:48Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Guardians",
+                                "price": -108
+                            },
+                            {
+                                "name": "Pittsburgh Pirates",
+                                "price": -102
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "79e1a1aa8477a272d8a34c8a02f4a685",
+        "sport_key": "mma_mixed_martial_arts",
+        "sport_title": "MMA",
+        "commence_time": "2026-07-19T00:30:00Z",
+        "home_team": "Caolan Loughran",
+        "away_team": "Julio Arce",
+        "bookmakers": [
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Caolan Loughran",
+                                "price": 145
+                            },
+                            {
+                                "name": "Julio Arce",
+                                "price": -170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Caolan Loughran",
+                                "price": 142
+                            },
+                            {
+                                "name": "Julio Arce",
+                                "price": -168
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb863e1f47a211b491bc73bd07d8aa20",
+        "sport_key": "baseball_milb",
+        "sport_title": "MiLB",
+        "commence_time": "2026-07-19T00:30:00Z",
+        "home_team": "Louisville Bats",
+        "away_team": "St. Paul Saints",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:21Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:21Z",
+                        "outcomes": [
+                            {
+                                "name": "Louisville Bats",
+                                "price": -112
+                            },
+                            {
+                                "name": "St. Paul Saints",
+                                "price": -112
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:31:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Louisville Bats",
+                                "price": -118
+                            },
+                            {
+                                "name": "St. Paul Saints",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d24612bd3abe34a240d8fd2f3ced9d4f",
+        "sport_key": "basketball_wnba",
+        "sport_title": "WNBA",
+        "commence_time": "2026-07-19T00:33:00Z",
+        "home_team": "Golden State Valkyries",
+        "away_team": "Washington Mystics",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -420
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -410
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -395
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:30:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -400
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 316
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -400
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 316
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:30:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -430
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:46Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -420
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -425
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2026-07-19T00:29:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Valkyries",
+                                "price": -400
+                            },
+                            {
+                                "name": "Washington Mystics",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c560aa3f2db25f62fa24756c0e91f4eb",
+        "sport_key": "baseball_milb",
+        "sport_title": "MiLB",
+        "commence_time": "2026-07-19T00:35:00Z",
+        "home_team": "Albuquerque Isotopes",
+        "away_team": "Sacramento River Cats",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Albuquerque Isotopes",
+                                "price": -108
+                            },
+                            {
+                                "name": "Sacramento River Cats",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:49Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Albuquerque Isotopes",
+                                "price": -110
+                            },
+                            {
+                                "name": "Sacramento River Cats",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:29:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Albuquerque Isotopes",
+                                "price": -110
+                            },
+                            {
+                                "name": "Sacramento River Cats",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8be6fc93d1b917dcdab59cc4e8957577",
+        "sport_key": "baseball_milb",
+        "sport_title": "MiLB",
+        "commence_time": "2026-07-19T00:35:00Z",
+        "home_team": "El Paso Chihuahuas",
+        "away_team": "Sugar Land Space Cowboys",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:07Z",
+                        "outcomes": [
+                            {
+                                "name": "El Paso Chihuahuas",
+                                "price": 100
+                            },
+                            {
+                                "name": "Sugar Land Space Cowboys",
+                                "price": -128
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:49Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:49Z",
+                        "outcomes": [
+                            {
+                                "name": "El Paso Chihuahuas",
+                                "price": 100
+                            },
+                            {
+                                "name": "Sugar Land Space Cowboys",
+                                "price": -130
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:29:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:19Z",
+                        "outcomes": [
+                            {
+                                "name": "El Paso Chihuahuas",
+                                "price": 100
+                            },
+                            {
+                                "name": "Sugar Land Space Cowboys",
+                                "price": -130
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "37a75c70659c25f792da6403e534046a",
+        "sport_key": "baseball_milb",
+        "sport_title": "MiLB",
+        "commence_time": "2026-07-19T00:35:00Z",
+        "home_team": "Salt Lake Bees",
+        "away_team": "Reno Aces",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:07Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Reno Aces",
+                                "price": -108
+                            },
+                            {
+                                "name": "Salt Lake Bees",
+                                "price": -118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:49Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:49Z",
+                        "outcomes": [
+                            {
+                                "name": "Reno Aces",
+                                "price": -110
+                            },
+                            {
+                                "name": "Salt Lake Bees",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:29:19Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:19Z",
+                        "outcomes": [
+                            {
+                                "name": "Reno Aces",
+                                "price": -110
+                            },
+                            {
+                                "name": "Salt Lake Bees",
+                                "price": -120
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c7b41bed32c4f195c568ccb677d77cf8",
+        "sport_key": "basketball_nba_summer_league",
+        "sport_title": "NBA Summer League",
+        "commence_time": "2026-07-19T00:40:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Golden State Warriors",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 130
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:31:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 130
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -160
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:30:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 112
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -148
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:27:55Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:27:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 125
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -145
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:29:54Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:29:54Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 140
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:30:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 135
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 135
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2026-07-19T00:30:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 138
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -160
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2026-07-19T00:30:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 128
+                            },
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": -171
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "786032759ef8722f38757061ce6d6bec",
+        "sport_key": "mma_mixed_martial_arts",
+        "sport_title": "MMA",
+        "commence_time": "2026-07-19T00:45:00Z",
+        "home_team": "Tabatha Ricci",
+        "away_team": "Fatima Kline",
+        "bookmakers": [
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:47Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -500
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -485
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2026-07-19T00:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -510
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:44Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:44Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -490
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 380
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2026-07-19T00:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -500
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2026-07-19T00:30:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -500
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 360
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2026-07-19T00:30:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Fatima Kline",
+                                "price": -490
+                            },
+                            {
+                                "name": "Tabatha Ricci",
+                                "price": 375
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "563e51297bf3bb87bb480a8b77d71069",
+        "sport_key": "boxing_boxing",
+        "sport_title": "Boxing",
+        "commence_time": "2026-07-19T01:00:00Z",
+        "home_team": "Albert Gonzalez",
+        "away_team": "Aar\u00f3n Alameda",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Aar\u00f3n Alameda",
+                                "price": 700
+                            },
+                            {
+                                "name": "Albert Gonzalez",
+                                "price": -1400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Aar\u00f3n Alameda",
+                                "price": 900
+                            },
+                            {
+                                "name": "Albert Gonzalez",
+                                "price": -1800
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:30:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Aar\u00f3n Alameda",
+                                "price": 900
+                            },
+                            {
+                                "name": "Albert Gonzalez",
+                                "price": -1800
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Aar\u00f3n Alameda",
+                                "price": 650
+                            },
+                            {
+                                "name": "Albert Gonzalez",
+                                "price": -1450
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c0a23623e6698ac1eaf517f0e43b4eeb",
+        "sport_key": "boxing_boxing",
+        "sport_title": "Boxing",
+        "commence_time": "2026-07-19T01:00:00Z",
+        "home_team": "Charley Suarez",
+        "away_team": "Manuel Avila",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Charley Suarez",
+                                "price": -2000
+                            },
+                            {
+                                "name": "Manuel Avila",
+                                "price": 900
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2026-07-19T00:30:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:12Z",
+                        "outcomes": [
+                            {
+                                "name": "Charley Suarez",
+                                "price": -6600
+                            },
+                            {
+                                "name": "Manuel Avila",
+                                "price": 1600
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2026-07-19T00:30:57Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2026-07-19T00:30:57Z",
+                        "outcomes": [
+                            {
+                                "name": "Charley Suarez",
+                                "price": -6600
+                            },
+                            {
+                                "name": "Manuel Avila",
+                                "price": 1600
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

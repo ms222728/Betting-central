@@ -65,6 +65,27 @@ Returns service uptime and, per league, the cached game count, last
 successful refresh time, and last error (if any) — useful for confirming
 the poller is actually reaching The Odds API after you deploy.
 
+## Tests
+
+```
+npm test
+```
+
+Runs the transform logic (`lib/transform.js`) against two fixtures in
+`test/fixtures/`:
+
+- `real-sample-2026-07-18.json` — an actual captured multi-sport response
+  from The Odds API. Asserts that only the 2 real `baseball_mlb` games
+  survive, and that every look-alike sport in the raw feed (NBA Summer
+  League, MiLB, boxing, MMA, soccer, CFL, WNBA) is dropped. This is a
+  regression guard for the exact bug the sample caught: `sport_title` says
+  `"NBA Summer League"`, which a title-based filter would wrongly match on
+  "NBA" — only `sport_key` is trustworthy.
+- `synthetic-nfl-ncaaf-nhl.json` — handcrafted, since the real sample was
+  captured in July and had zero in-season NFL/NCAAF/NHL games. Covers
+  league mapping, team abbreviations, an omitted book, and a game with no
+  bookmakers at all for those three leagues.
+
 ## Team abbreviations
 
 The Odds API returns full team names ("New York Yankees"), not codes. This
